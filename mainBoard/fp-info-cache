@@ -1,4 +1,4 @@
-24185095710410149
+24185097182338986
 2137160001
 2137160001_MOL
 
@@ -85518,13 +85518,6 @@ TO-264-5 Vertical RM 3.81mm
 0
 5
 5
-Pinheader_1x06_Smd_Flat
-PinHeader
-
-
-0
-6
-6
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
@@ -97838,6 +97831,13 @@ Varistor VF
 0
 2
 2
+WDFN-8
+WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54
+https://www.onsemi.com/pub/Collateral/511BN.PDF
+WDFN-8 1EP 2.2X2.0 0.5P
+0
+9
+9
 footprints
 DW0020A-IPC_A
 
